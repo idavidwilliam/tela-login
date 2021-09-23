@@ -1,0 +1,63 @@
+#a{
+  width: 100px;
+}
+img{
+  width: 15px;
+}
+input{
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 15px;
+}
+body{
+  background-image: url(https://assets-global.website-files.com/55e67eeba2e73cb76514f165/5987c3116dccc600016b682d_Webflow%20Elements.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  margin-top: 2.5cm;
+}
+form{
+  display: flex;
+  border-style: solid;
+  border-radius: 15px 50px;
+  border-color:white;
+  background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  width: 23vw;
+  height: 70vh;
+  background-color: #21D4FD;
+  background-image: linear-gradient(19deg, #21D4FD 0%, #2678fd 100%);
+  opacity: 70%;  
+}
+
+input{
+  border-radius: 5px;
+  border:none;
+  width: 16vw;
+  height: 30px;
+  margin-bottom: 7px;  
+}
+
+button{
+  margin-left: 15px;
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 15px;
+  border-radius: 5px;
+  width: 16.5vw;
+  height: 35px;
+  color: white;
+  background-color: #312dde;
+  background-image: linear-gradient(160deg, #312dde 0%, #31c5fb 100%); 
+  margin-top: 20px;
+  
+}
+#recuperar{
+  margin-top: 1px;
+  padding-left: 4cm;
+}
+#criar{
+  margin-top: 10px;
+  padding-left: 2.6cm;
+}
